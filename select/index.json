@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Am I Bothering You?",
+  "base_artist": "Reality Club",
+  "createdAt": "2026-03-24T10:26:53.685753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Am I Bothering You?",
+      "artist": "Reality Club",
+      "has_synced": false,
+      "path": "select/01_Am_I_Bothering_You_Reality_Club.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Am I Bothering You?",
+      "artist": "Song, Reality Club",
+      "has_synced": true,
+      "path": "select/02_Am_I_Bothering_You_Song,_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Am I Bothering You?",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/03_Am_I_Bothering_You_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Am I Bothering You? - Audiotree Live Version",
+      "artist": "Reality Club",
+      "has_synced": false,
+      "path": "select/04_Am_I_Bothering_You__-_Audiotree_Live_Version_Reality_Club.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Am I Bothering You?",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/localdb_01_Am_I_Bothering_You_Reality_Club.lrc",
+      "repo_name": "F01WN9anzWo"
+    }
+  ]
+}
